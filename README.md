@@ -32,7 +32,7 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: raipure.adityaraipure3255.com  
+- 📧 Email: adityaraipure3255@gmail.com  
 - 🔗 LinkedIn:   https://www.linkedin.com/in/aditya-raipure-a02b15290
 
 
