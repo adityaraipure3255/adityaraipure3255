@@ -22,7 +22,7 @@
 
 ## 📌 Highlights
 
-- 👨‍💻 Third Year Project: 1.) Smart Energy Monitoring System using ESP32
+- 👨‍💻 Projects: 1.) Smart Energy Monitoring System using ESP32
 - 2.) smart rail crossing protection
 - 3.) ML-Based Traffic Management System with Emergency Priority System
 - 🌐 Completed internships in Data Analytics and AI-ML virtual internshhip,   
