@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Aditya Raipure
 
-🎓 I'm a 3rd Year Electronics and Telecommunication Engineering student  
+🎓 I'm a Electronics and Telecommunication Engineering student  
 💡 Passionate about IoT, Embedded Systems, and the IT domain  
 💻 I enjoy working on real-time projects using ESP32, sensors, and cloud platforms  
 🌱 Currently exploring Python and AI/ML tools  
@@ -13,18 +13,19 @@
 
 ## 🚀 Tech Stack
 
-- **Languages**: C, C++, Python  
+- **Languages**: Python, SQL
 - **Microcontrollers**: ESP32, NodeMCU, Arduino  
 - **Tools & Platforms**: GitHub, VS Code, linkedin,  
-- **Domains**: IoT, Embedded Systems, Cloud
+- **Domains**: IT, Data Analytics, Power BI, Tableu, IoT, Embedded Systems, Cloud
 
 ---
 
 ## 📌 Highlights
 
-- 👨‍💻 Third Year Project: Smart Energy Monitoring System using ESP32 and smart rail protection
-- 🔊 IoT-Based Voice Controlled Wheelchair  
-- 🌐 Completed internships in UI/UX, Cloud Computing, and AI-ML virtual internshhip,   
+- 👨‍💻 Third Year Project: 1.) Smart Energy Monitoring System using ESP32
+- 2.) smart rail crossing protection
+- 3.) ML-Based Traffic Management System with Emergency Priority System
+- 🌐 Completed internships in Data Analytics and AI-ML virtual internshhip,   
 - 🏆 Organized technical & cultural events as CR and committee member  
 - 📚 Learning new things daily and applying them in projects
 
